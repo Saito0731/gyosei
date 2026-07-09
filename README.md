@@ -1,3 +1,3 @@
-# 行政書士齋藤光男事務所 Version3 トップページ
+# Family Visa Master v2
 
-index.html / style.css / script.js / logo.png をGitHubに上書き・追加してください。
+family-visa.html / family-visa.css / family-visa.js をgyoseiへアップロードしてください。
