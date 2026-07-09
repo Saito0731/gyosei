@@ -1,3 +1,3 @@
-# 行政書士齋藤光男事務所ホームページ
+# 家族滞在ビザ完全ガイド v1
 
-多言語対応版 v2
+family-visa.html と family-visa.css を gyosei リポジトリへアップロードしてください。
