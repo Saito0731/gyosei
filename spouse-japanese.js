@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const a=document.querySelectorAll('.cards article,.steps div,.langs article,.faq details');a.forEach(x=>x.classList.add('fade'));const o=new IntersectionObserver(e=>e.forEach(i=>{if(i.isIntersecting)i.target.classList.add('show')}),{threshold:.1});a.forEach(x=>o.observe(x));});
