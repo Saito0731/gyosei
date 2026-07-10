@@ -1,0 +1,243 @@
+<!-- =========================
+多言語対応
+========================= -->
+
+<section class="section bg-light">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <small>MULTI LANGUAGE</small>
+
+            <h2>
+
+                Multi Language
+
+            </h2>
+
+            <p>
+
+                当事務所では外国人の方にも分かりやすいよう、多言語でのご案内に対応しています。
+
+            </p>
+
+        </div>
+
+        <div class="language-grid">
+
+            <div class="language-card">
+
+                <h3>🇯🇵 日本語</h3>
+
+                <p>
+                    永住者の配偶者等の認定・変更・更新までサポートします。
+                </p>
+
+            </div>
+
+            <div class="language-card">
+
+                <h3>🇺🇸 English</h3>
+
+                <p>
+                    We support Certificate of Eligibility, Change of Status and Extension of Stay for spouses of Permanent Residents.
+                </p>
+
+            </div>
+
+            <div class="language-card">
+
+                <h3>🇻🇳 Tiếng Việt</h3>
+
+                <p>
+                    Hỗ trợ xin tư cách lưu trú "Vợ/chồng của người có visa vĩnh trú" tại Nhật Bản.
+                </p>
+
+            </div>
+
+            <div class="language-card">
+
+                <h3>🇨🇳 中文</h3>
+
+                <p>
+                    我们提供永住者配偶签证申请、变更、更新等服务。
+                </p>
+
+            </div>
+
+            <div class="language-card">
+
+                <h3>🇲🇲 မြန်မာ</h3>
+
+                <p>
+                    ဂျပန်အမြဲတမ်းနေထိုင်ခွင့်ရှိသူ၏ အိမ်ထောင်ဖက်ဗီဇာ လျှောက်ထားခြင်းကို ကူညီဆောင်ရွက်ပေးပါသည်။
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+お問い合わせ
+========================= -->
+
+<section id="contact" class="contact-section">
+
+    <div class="container">
+
+        <div class="contact-box">
+
+            <h2>
+
+                永住者の配偶者等ビザでお困りの方へ
+
+            </h2>
+
+            <p>
+
+                初回相談は無料です。お気軽にご相談ください。
+
+            </p>
+
+            <div class="contact-buttons">
+
+                <a href="tel:07038714901" class="btn-gold">
+
+                    電話で相談
+
+                </a>
+
+                <a href="https://lin.ee/8Lm7ydx"
+                   target="_blank"
+                   class="btn-line">
+
+                    LINEで相談
+
+                </a>
+
+                <a href="mailto:visa.sinsei.saito@gmail.com"
+                   class="btn-white">
+
+                    メールで相談
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+関連記事
+========================= -->
+
+<section class="section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <small>RELATED ARTICLES</small>
+
+            <h2>
+
+                関連ページ
+
+            </h2>
+
+        </div>
+
+        <div class="related-grid">
+
+            <a href="spouse-japanese.html" class="related-card">
+
+                日本人の配偶者等
+
+            </a>
+
+            <a href="family-visa.html" class="related-card">
+
+                家族滞在ビザ
+
+            </a>
+
+            <a href="permanent.html" class="related-card">
+
+                永住許可
+
+            </a>
+
+            <a href="change-status.html" class="related-card">
+
+                在留資格変更
+
+            </a>
+
+            <a href="renewal.html" class="related-card">
+
+                在留期間更新
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+<footer class="footer">
+
+    <div class="container">
+
+        <img src="logo.png" alt="行政書士齋藤光男事務所" class="footer-logo">
+
+        <h3>
+
+            行政書士齋藤光男事務所
+
+        </h3>
+
+        <p>
+
+            〒333-0866<br>
+            埼玉県川口市芝4-1-4
+
+        </p>
+
+        <p>
+
+            TEL：070-3871-4901
+
+        </p>
+
+        <p>
+
+            Mail：visa.sinsei.saito@gmail.com
+
+        </p>
+
+        <p class="copyright">
+
+            © 2026 行政書士齋藤光男事務所 All Rights Reserved.
+
+        </p>
+
+    </div>
+
+</footer>
+
+<script src="permanent-spouse.js"></script>
+
+</main>
+
+</body>
+
+</html>
